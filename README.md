@@ -1,0 +1,2 @@
+
+In this lab, we tried to run our first web project using java ee. liquor store . We had a simple form with which we sent a request to the server, and depending on the request, it gave us different html pages
